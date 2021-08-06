@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vucudunu Sev</string>
+    <string name="average">Ortalama</string>
+    <string name="biking">Bisiklet</string>
+    <string name="breakfast">Kahvalti</string>
+    <string name="calculate">Hesapla</string>
+    <string name="diary">Gunluk</string>
+    <string name="dinner">Aksam</string>
+    <string name="enter_to_diary">Gunluge Gir</string>
+    <string name="exercises">Spor</string>
+    <string name="food_eaten">Yenilen Yemek</string>
+    <string name="gym">Gym</string>
+    <string name="jogging">Kosmak</string>
+    <string name="kj_value">KJ miktari</string>
+    <string name="lunch">Oglen</string>
+    <string name="my_diaries">Gunlugum</string>
+    <string name="net_value">Toplam miktar</string>
+    <string name="next_entry">Sonraki</string>
+    <string name="previous_entry">Onceki</string>
+    <string name="snacks">Atistirma</string>
+    <string name="swimming">Yuzme</string>
+    <string name="total_exercises">Toplam spor</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoveBody</string>
+    <string name="total_food">Total Food</string>
+    <string name="net_value">Net Value</string>
+    <string name="total_exercises">Total Exercises</string>
+    <string name="biking">Biking</string>
+    <string name="kj_value">KJ Value</string>
+    <string name="dinner">Dinner</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="swimming">Swimming</string>
+    <string name="lunch">Lunch</string>
+    <string name="jogging">Jogging</string>
+    <string name="gym">Gym</string>
+    <string name="food_eaten">Food Eaten</string>
+    <string name="exercises">Exercises</string>
+    <string name="snacks">Snacks</string>
+    <string name="my_diaries">My Diaries</string>
+    <string name="enter_to_diary">Enter to diary</string>
+    <string name="average">Average</string>
+    <string name="calculate">Calculate</string>
+    <string name="diary">Diary</string>
+    <string name="previous_entry">Previous Entry</string>
+    <string name="next_entry">Next Entry</string>
+</resources>
